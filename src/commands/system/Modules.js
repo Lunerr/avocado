@@ -27,7 +27,7 @@ class Modules extends patron.Command {
         message += msg.client.registry.groups[i].name.upperFirstChar() + ', ';
       }
 
-      return msg.channel.createMessage(message.substring(0, message.length - 2) + '.', { title: 'These are the current modules in DEA:' });
+      return msg.channel.createMessage(message.substring(0, message.length - 2) + '.', { title: 'These are the current modules in Avocado:' });
     }
 
     const lowerInput = args.module.toLowerCase();

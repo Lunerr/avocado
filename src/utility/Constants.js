@@ -28,8 +28,8 @@ class Constants {
       },
 
       links: {
-        botInvite: 'https://discordapp.com/oauth2/authorize?client_id=496520437514371072&scope=bot&permissions=8',
-        serverInvite: 'https://discord.gg/usXDFN4'
+        botInvite: 'https://discordapp.com/oauth2/authorize?client_id=602079860386430987&scope=bot&permissions=8',
+        serverInvite: 'https://discord.gg/djmCP9W'
       },
 
       messages: {
@@ -99,7 +99,7 @@ class Constants {
         },
         game: '$help',
         prefix: '$',
-        botOwners: ['Luner#0059'],
+        botOwners: ['cesvy#0059'],
         ownerIds: ['226736342745219072']
       },
 
